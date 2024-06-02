@@ -1,4 +1,5 @@
 # dialogsJS_2024
-## otrā ļīmeņa
+## otrā līmeņa
 elektroniskā klāde  
-klādes aizpildīšana
+klādes aizpildīšana  
+...
