@@ -3,4 +3,4 @@
 elektroniskā klāde  
 klādes aizpildīšana  
 ...  
-test
+**meginājums Nr2**
