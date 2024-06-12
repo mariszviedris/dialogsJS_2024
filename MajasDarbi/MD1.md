@@ -10,6 +10,14 @@ var spbcPublic = {"_ajax_nonce":"6bdbe0b833","_rest_nonce":"c5108cf967","_ajax_u
 </script>
 
 
+<!--
+var
+https://jelgavaskatedrale.lv/templates/gantry/js/rokmediaqueries.js
+
+for (var i = this.queries.length - 1; i >= 0; i--)
+
+
+--!>
 
 <!-- masīva izmantošana
 >www.lu.lv --!>
@@ -19,4 +27,6 @@ var spbcPublic = {"_ajax_nonce":"6bdbe0b833","_rest_nonce":"c5108cf967","_ajax_u
 
 
 
-                    
+
+
+
